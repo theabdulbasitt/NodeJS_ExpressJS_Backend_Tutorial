@@ -1,0 +1,17 @@
+Emmet (built‑in): open a file (HTML or plain text), type an Emmet abbreviation and expand it:
+
+Type lorem (default paragraph) or lorem10 (10 words) and press Tab (or run "Emmet: Expand Abbreviation" from Ctrl+Shift+P).
+For multiple paragraphs try lorem*3 then expand.
+Command palette / extension:
+
+Install an extension like "Insert Lorem Ipsum" from the Extensions view (Ctrl+Shift+X).
+Use Ctrl+Shift+P → "Insert Lorem Ipsum" to generate text and choose words/paragraphs.
+Emmet (built‑in): open a file (HTML or plain text), type an Emmet abbreviation and expand it:
+
+Type lorem (default paragraph) or lorem10 (10 words) and press Tab (or run "Emmet: Expand Abbreviation" from Ctrl+Shift+P).
+For multiple paragraphs try lorem*3 then expand.
+Command palette / extension:
+
+Install an extension like "Insert Lorem Ipsum" from the Extensions view (Ctrl+Shift+X).
+Use Ctrl+Shift+P → "Insert Lorem Ipsum" to generate text and choose words/paragraphs.
+If your =lorem(5,4) comes from a specific extension,
