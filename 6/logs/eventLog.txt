@@ -1,0 +1,10 @@
+20251114	08:35:10	8f6b771c-5f86-4d78-a767-4af437f91dcf	/new-page.html	GET
+20251114	08:35:10	d58d1b39-514f-4091-b53b-299ea3d23194	/css/style.css	GET
+20251114	08:35:10	9d8691de-08e6-46e2-b2fd-0414f4bf192e	/img/img1.jpg	GET
+20251114	08:35:10	12c12288-718f-4619-8bf7-60a4d357bb4a	/favicon.ico	GET
+20251114	08:37:29	b88b669f-ac3a-464f-9245-46e1489d2796	/new-page.html	GET
+20251114	08:37:29	c50e9953-a09a-46c1-80f3-59d27a05f76a	TypeError: fsPromises.readFil is not a function
+20251114	08:38:09	c7fad456-4c3f-40cd-882e-2c67eac311e9	/new-page.html	GET
+20251114	08:38:09	2c17a3ec-cd94-4478-b87a-33ab3a7a948c	/css/style.css	GET
+20251114	08:38:09	efdbf4df-ea9e-4fc4-99eb-2ffb8a5fba0c	/img/img1.jpg	GET
+20251114	08:38:09	64951a37-7b65-49b7-9d24-af6ff36828c3	/favicon.ico	GET
