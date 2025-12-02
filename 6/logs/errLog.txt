@@ -1,0 +1,16 @@
+20251201	22:28:30	81b716a9-8ca9-474c-83c6-86a46eee8b54	Error: Not allowed by CORS
+20251201	22:28:30	b426009d-179d-4857-a04e-d84fb79abf83	Error: Not allowed by CORS
+20251201	22:28:45	5a8b7b28-6e4d-4863-9bec-7625ea8f8a2f	Error: Not allowed by CORS
+20251201	22:28:45	5eac44ee-d8f8-42cd-a9ff-b2dab397e815	Error: Not allowed by CORS
+20251201	22:31:22	30f2dc34-e6f4-4a71-8b22-7b6cebb5b40d	Error: Not allowed by CORS
+20251201	22:31:22	839ed250-f9eb-4f8c-b81b-98bc7d2dd0d5	Error: Not allowed by CORS
+20251201	22:31:33	8416128a-3bf1-4eec-921b-ff6db2ea7f9b	Error: Not allowed by CORS
+20251201	22:31:33	d837c10e-9b76-4b14-91ca-ba2eb765a4a4	Error: Not allowed by CORS
+20251201	22:33:35	67b5d6d4-623f-4043-a424-473fea46374d	Error: Not allowed by CORS
+20251201	22:33:35	cb599ee5-6bf9-4bd0-aea3-352fac95ce2b	Error: Not allowed by CORS
+20251202	07:55:59	2103d057-fa1f-4a54-a589-350931084e62	Error: Not allowed by CORS
+20251202	07:56:00	9b028606-fc0b-46f0-a567-7b1adcf777f9	Error: Not allowed by CORS
+20251202	19:12:38	7016572e-4a31-4aa9-9c58-7d994b887209	TypeError: Cannot read properties of undefined (reading 'id')
+20251202	19:12:46	e2de929f-d773-4e63-9534-1e30c0ddbf99	TypeError: Cannot read properties of undefined (reading 'id')
+20251202	20:28:08	2ab2a5de-8844-4c6b-b8f2-9b3debbb28e9	SyntaxError: Unexpected token 'u', ..."astname": undefined"... is not valid JSON
+20251202	20:57:54	32d8387c-7c22-4aa4-9251-6fbba850982f	TypeError: Cannot read properties of undefined (reading 'firstname')
