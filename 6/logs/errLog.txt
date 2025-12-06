@@ -14,3 +14,5 @@
 20251202	19:12:46	e2de929f-d773-4e63-9534-1e30c0ddbf99	TypeError: Cannot read properties of undefined (reading 'id')
 20251202	20:28:08	2ab2a5de-8844-4c6b-b8f2-9b3debbb28e9	SyntaxError: Unexpected token 'u', ..."astname": undefined"... is not valid JSON
 20251202	20:57:54	32d8387c-7c22-4aa4-9251-6fbba850982f	TypeError: Cannot read properties of undefined (reading 'firstname')
+20251206	00:05:36	2f9089d0-0344-4106-9fee-fdf04f6a7482	TypeError: Cannot read properties of undefined (reading 'id')
+20251206	22:57:29	540d92cb-b05a-44d3-9566-a06a95ca2bf1	Error: Cannot set headers after they are sent to the client
